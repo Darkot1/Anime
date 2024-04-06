@@ -1,0 +1,74 @@
+body{
+    background-color: #009999;
+    margin: 0;
+}
+
+.header_logo{
+    width: 99%;
+    padding-left: 5px;
+    height: 150px;
+    position: relative;
+    top: 5px;
+}
+.menu{
+    background-color: #0909f6;
+    width: 99%;
+    margin-left: 5px;
+}
+table{
+    color: #fff;
+    border: grey 2px outset;
+}
+
+td{
+    border: #0909f6 inset 2px;
+}
+/*SECCION MAIN*/
+h1{
+    padding-top: 10px;
+    margin-top: 0;
+}
+.main{
+    background-color: #349c04;
+    width: 66%;
+    height: 100vh;
+    display: block;
+    position: relative;
+    left: 19.1%;
+    
+}
+
+.estreno{
+    width: 22%;
+    float: left;
+}
+
+.parrafos{
+    text-align: center;
+
+}
+
+.aside-izquierdo{
+    background-color: #9966ff;
+    width: 19%;
+    height: 100%;
+    position: absolute;
+    top: 184px;
+    left: 5px;
+}
+.aside-izquierdo table,td,tr{
+    color: #000;
+    border: #000 2px inset;
+}
+.aside-derecho{
+    background-color: #00cccc;
+    width: 14.5%;
+    height: 100%;
+    position: absolute;
+    top: 184px;
+    right: 5px;
+}
+
+.img-aside{
+    width: 100%;
+}
